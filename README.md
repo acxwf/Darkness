@@ -5,9 +5,8 @@
 **[ Maven ]**\
 **API VERISON** : 1.19\
 **Driver** : [PAPER](https://papermc.io/)\
-**FILES** : [GITHUB \ ACXWF]()\
+**FILES** : [GITHUB \ ACXWF](https://github.com/acxwf)\
 \
-[Download the correct version of the driver]()
 
 ---\
 _업데이트 진행중입니다._
